@@ -12,6 +12,8 @@ This project is an IoT-based EV charging station using ESP32 and Razorpay paymen
 
 \- ESP32
 
+\- Using MQQT protocol for payments
+
 \- IR Sensor
 
 \- Servo Motor
